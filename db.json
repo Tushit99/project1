@@ -1,987 +1,816 @@
 {
-  "data": [], 
-  "cart": [], 
-  "old": [], 
-  "country": [
-    {
-        "country": "Afghanistan",
-        "city": "Kabul"
-    },
-    {
-        "country": "Albania",
-        "city": "Tirana"
-    },
-    {
-        "country": "Algeria",
-        "city": "Alger"
-    },
-    {
-        "country": "American Samoa",
-        "city": "Fagatogo"
-    },
-    {
-        "country": "Andorra",
-        "city": "Andorra la Vella"
-    },
-    {
-        "country": "Angola",
-        "city": "Luanda"
-    },
-    {
-        "country": "Anguilla",
-        "city": "The Valley"
-    },
-    {
-        "country": "Antarctica",
-        "city": null
-    },
-    {
-        "country": "Antigua and Barbuda",
-        "city": "Saint John's"
-    },
-    {
-        "country": "Argentina",
-        "city": "Buenos Aires"
-    },
-    {
-        "country": "Armenia",
-        "city": "Yerevan"
-    },
-    {
-        "country": "Aruba",
-        "city": "Oranjestad"
-    },
-    {
-        "country": "Australia",
-        "city": "Canberra"
-    },
-    {
-        "country": "Austria",
-        "city": "Wien"
-    },
-    {
-        "country": "Azerbaijan",
-        "city": "Baku"
-    },
-    {
-        "country": "Bahamas",
-        "city": "Nassau"
-    },
-    {
-        "country": "Bahrain",
-        "city": "al-Manama"
-    },
-    {
-        "country": "Bangladesh",
-        "city": "Dhaka"
-    },
-    {
-        "country": "Barbados",
-        "city": "Bridgetown"
-    },
-    {
-        "country": "Belarus",
-        "city": "Minsk"
-    },
-    {
-        "country": "Belgium",
-        "city": "Bruxelles [Brussel]"
-    },
-    {
-        "country": "Belize",
-        "city": "Belmopan"
-    },
-    {
-        "country": "Benin",
-        "city": "Porto-Novo"
-    },
-    {
-        "country": "Bermuda",
-        "city": "Hamilton"
-    },
-    {
-        "country": "Bhutan",
-        "city": "Thimphu"
-    },
-    {
-        "country": "Bolivia",
-        "city": "La Paz"
-    },
-    {
-        "country": "Bosnia and Herzegovina",
-        "city": "Sarajevo"
-    },
-    {
-        "country": "Botswana",
-        "city": "Gaborone"
-    },
-    {
-        "country": "Bouvet Island",
-        "city": null
-    },
-    {
-        "country": "Brazil",
-        "city": "Brasília"
-    },
-    {
-        "country": "British Indian Ocean Territory",
-        "city": null
-    },
-    {
-        "country": "Brunei",
-        "city": "Bandar Seri Begawan"
-    },
-    {
-        "country": "Bulgaria",
-        "city": "Sofia"
-    },
-    {
-        "country": "Burkina Faso",
-        "city": "Ouagadougou"
-    },
-    {
-        "country": "Burundi",
-        "city": "Bujumbura"
-    },
-    {
-        "country": "Cambodia",
-        "city": "Phnom Penh"
-    },
-    {
-        "country": "Cameroon",
-        "city": "Yaound"
-    },
-    {
-        "country": "Canada",
-        "city": "Ottawa"
-    },
-    {
-        "country": "Cape Verde",
-        "city": "Praia"
-    },
-    {
-        "country": "Cayman Islands",
-        "city": "George Town"
-    },
-    {
-        "country": "Central African Republic",
-        "city": "Bangui"
-    },
-    {
-        "country": "Chad",
-        "city": "N'Djam"
-    },
-    {
-        "country": "Chile",
-        "city": "Santiago de Chile"
-    },
-    {
-        "country": "China",
-        "city": "Peking"
-    },
-    {
-        "country": "Christmas Island",
-        "city": "Flying Fish Cove"
-    },
-    {
-        "country": "Cocos (Keeling) Islands",
-        "city": "West Island"
-    },
-    {
-        "country": "Colombia",
-        "city": "Santaf"
-    },
-    {
-        "country": "Comoros",
-        "city": "Moroni"
-    },
-    {
-        "country": "Congo",
-        "city": "Brazzaville"
-    },
-    {
-        "country": "Cook Islands",
-        "city": "Avarua"
-    },
-    {
-        "country": "Costa Rica",
-        "city": "San José"
-    },
-    {
-        "country": "Croatia",
-        "city": "Zagreb"
-    },
-    {
-        "country": "Cuba",
-        "city": "La Habana"
-    },
-    {
-        "country": "Cyprus",
-        "city": "Nicosia"
-    },
-    {
-        "country": "Czech Republic",
-        "city": "Praha"
-    },
-    {
-        "country": "Denmark",
-        "city": "Copenhagen"
-    },
-    {
-        "country": "Djibouti",
-        "city": "Djibouti"
-    },
-    {
-        "country": "Dominica",
-        "city": "Roseau"
-    },
-    {
-        "country": "Dominican Republic",
-        "city": "Santo Domingo de Guzm"
-    },
-    {
-        "country": "East Timor",
-        "city": "Dili"
-    },
-    {
-        "country": "Ecuador",
-        "city": "Quito"
-    },
-    {
-        "country": "Egypt",
-        "city": "Cairo"
-    },
-    {
-        "country": "El Salvador",
-        "city": "San Salvador"
-    },
-    {
-        "country": "England",
-        "city": "London"
-    },
-    {
-        "country": "Equatorial Guinea",
-        "city": "Malabo"
-    },
-    {
-        "country": "Eritrea",
-        "city": "Asmara"
-    },
-    {
-        "country": "Estonia",
-        "city": "Tallinn"
-    },
-    {
-        "country": "Ethiopia",
-        "city": "Addis Abeba"
-    },
-    {
-        "country": "Falkland Islands",
-        "city": "Stanley"
-    },
-    {
-        "country": "Faroe Islands",
-        "city": "Tórshavn"
-    },
-    {
-        "country": "Fiji Islands",
-        "city": "Suva"
-    },
-    {
-        "country": "Finland",
-        "city": "Helsinki [Helsingfors]"
-    },
-    {
-        "country": "France",
-        "city": "Paris"
-    },
-    {
-        "country": "French Guiana",
-        "city": "Cayenne"
-    },
-    {
-        "country": "French Polynesia",
-        "city": "Papeete"
-    },
-    {
-        "country": "French Southern territories",
-        "city": null
-    },
-    {
-        "country": "Gabon",
-        "city": "Libreville"
-    },
-    {
-        "country": "Gambia",
-        "city": "Banjul"
-    },
-    {
-        "country": "Georgia",
-        "city": "Tbilisi"
-    },
-    {
-        "country": "Germany",
-        "city": "Berlin"
-    },
-    {
-        "country": "Ghana",
-        "city": "Accra"
-    },
-    {
-        "country": "Gibraltar",
-        "city": "Gibraltar"
-    },
-    {
-        "country": "Greece",
-        "city": "Athenai"
-    },
-    {
-        "country": "Greenland",
-        "city": "Nuuk"
-    },
-    {
-        "country": "Grenada",
-        "city": "Saint George's"
-    },
-    {
-        "country": "Guadeloupe",
-        "city": "Basse-Terre"
-    },
-    {
-        "country": "Guam",
-        "city": "Aga"
-    },
-    {
-        "country": "Guatemala",
-        "city": "Ciudad de Guatemala"
-    },
-    {
-        "country": "Guinea",
-        "city": "Conakry"
-    },
-    {
-        "country": "Guinea-Bissau",
-        "city": "Bissau"
-    },
-    {
-        "country": "Guyana",
-        "city": "Georgetown"
-    },
-    {
-        "country": "Haiti",
-        "city": "Port-au-Prince"
-    },
-    {
-        "country": "Heard Island and McDonald Islands",
-        "city": null
-    },
-    {
-        "country": "Holy See (Vatican City State)",
-        "city": "Citt"
-    },
-    {
-        "country": "Honduras",
-        "city": "Tegucigalpa"
-    },
-    {
-        "country": "Hong Kong",
-        "city": "Victoria"
-    },
-    {
-        "country": "Hungary",
-        "city": "Budapest"
-    },
-    {
-        "country": "Iceland",
-        "city": "Reykjavík"
-    },
-    {
-        "country": "India",
-        "city": "New Delhi"
-    },
-    {
-        "country": "Indonesia",
-        "city": "Jakarta"
-    },
-    {
-        "country": "Iran",
-        "city": "Tehran"
-    },
-    {
-        "country": "Iraq",
-        "city": "Baghdad"
-    },
-    {
-        "country": "Ireland",
-        "city": "Dublin"
-    },
-    {
-        "country": "Israel",
-        "city": "Jerusalem"
-    },
-    {
-        "country": "Italy",
-        "city": "Roma"
-    },
-    {
-        "country": "Ivory Coast",
-        "city": "Yamoussoukro"
-    },
-    {
-        "country": "Jamaica",
-        "city": "Kingston"
-    },
-    {
-        "country": "Japan",
-        "city": "Tokyo"
-    },
-    {
-        "country": "Jordan",
-        "city": "Amman"
-    },
-    {
-        "country": "Kazakhstan",
-        "city": "Astana"
-    },
-    {
-        "country": "Kenya",
-        "city": "Nairobi"
-    },
-    {
-        "country": "Kiribati",
-        "city": "Bairiki"
-    },
-    {
-        "country": "Kuwait",
-        "city": "Kuwait"
-    },
-    {
-        "country": "Kyrgyzstan",
-        "city": "Bishkek"
-    },
-    {
-        "country": "Laos",
-        "city": "Vientiane"
-    },
-    {
-        "country": "Latvia",
-        "city": "Riga"
-    },
-    {
-        "country": "Lebanon",
-        "city": "Beirut"
-    },
-    {
-        "country": "Lesotho",
-        "city": "Maseru"
-    },
-    {
-        "country": "Liberia",
-        "city": "Monrovia"
-    },
-    {
-        "country": "Libyan Arab Jamahiriya",
-        "city": "Tripoli"
-    },
-    {
-        "country": "Liechtenstein",
-        "city": "Vaduz"
-    },
-    {
-        "country": "Lithuania",
-        "city": "Vilnius"
-    },
-    {
-        "country": "Luxembourg",
-        "city": "Luxembourg [Luxemburg/L"
-    },
-    {
-        "country": "Macao",
-        "city": "Macao"
-    },
-    {
-        "country": "North Macedonia",
-        "city": "Skopje"
-    },
-    {
-        "country": "Madagascar",
-        "city": "Antananarivo"
-    },
-    {
-        "country": "Malawi",
-        "city": "Lilongwe"
-    },
-    {
-        "country": "Malaysia",
-        "city": "Kuala Lumpur"
-    },
-    {
-        "country": "Maldives",
-        "city": "Male"
-    },
-    {
-        "country": "Mali",
-        "city": "Bamako"
-    },
-    {
-        "country": "Malta",
-        "city": "Valletta"
-    },
-    {
-        "country": "Marshall Islands",
-        "city": "Dalap-Uliga-Darrit"
-    },
-    {
-        "country": "Martinique",
-        "city": "Fort-de-France"
-    },
-    {
-        "country": "Mauritania",
-        "city": "Nouakchott"
-    },
-    {
-        "country": "Mauritius",
-        "city": "Port-Louis"
-    },
-    {
-        "country": "Mayotte",
-        "city": "Mamoutzou"
-    },
-    {
-        "country": "Mexico",
-        "city": "Ciudad de M"
-    },
-    {
-        "country": "Micronesia, Federated States of",
-        "city": "Palikir"
-    },
-    {
-        "country": "Moldova",
-        "city": "Chisinau"
-    },
-    {
-        "country": "Monaco",
-        "city": "Monaco-Ville"
-    },
-    {
-        "country": "Mongolia",
-        "city": "Ulan Bator"
-    },
-    {
-        "country": "Montenegro",
-        "city": "Podgorica"
-    },
-    {
-        "country": "Montserrat",
-        "city": "Plymouth"
-    },
-    {
-        "country": "Morocco",
-        "city": "Rabat"
-    },
-    {
-        "country": "Mozambique",
-        "city": "Maputo"
-    },
-    {
-        "country": "Myanmar",
-        "city": "Rangoon (Yangon)"
-    },
-    {
-        "country": "Namibia",
-        "city": "Windhoek"
-    },
-    {
-        "country": "Nauru",
-        "city": "Yaren"
-    },
-    {
-        "country": "Nepal",
-        "city": "Kathmandu"
-    },
-    {
-        "country": "Netherlands",
-        "city": "Amsterdam"
-    },
-    {
-        "country": "Netherlands Antilles",
-        "city": "Willemstad"
-    },
-    {
-        "country": "New Caledonia",
-        "city": "Noum"
-    },
-    {
-        "country": "New Zealand",
-        "city": "Wellington"
-    },
-    {
-        "country": "Nicaragua",
-        "city": "Managua"
-    },
-    {
-        "country": "Niger",
-        "city": "Niamey"
-    },
-    {
-        "country": "Nigeria",
-        "city": "Abuja"
-    },
-    {
-        "country": "Niue",
-        "city": "Alofi"
-    },
-    {
-        "country": "Norfolk Island",
-        "city": "Kingston"
-    },
-    {
-        "country": "North Korea",
-        "city": "Pyongyang"
-    },
-    {
-        "country": "Northern Ireland",
-        "city": "Belfast"
-    },
-    {
-        "country": "Northern Mariana Islands",
-        "city": "Garapan"
-    },
-    {
-        "country": "Norway",
-        "city": "Oslo"
-    },
-    {
-        "country": "Oman",
-        "city": "Masqat"
-    },
-    {
-        "country": "Pakistan",
-        "city": "Islamabad"
-    },
-    {
-        "country": "Palau",
-        "city": "Koror"
-    },
-    {
-        "country": "Palestine",
-        "city": "Gaza"
-    },
-    {
-        "country": "Panama",
-        "city": "Ciudad de Panamá"
-    },
-    {
-        "country": "Papua New Guinea",
-        "city": "Port Moresby"
-    },
-    {
-        "country": "Paraguay",
-        "city": "Asunción"
-    },
-    {
-        "country": "Peru",
-        "city": "Lima"
-    },
-    {
-        "country": "Philippines",
-        "city": "Manila"
-    },
-    {
-        "country": "Pitcairn",
-        "city": "Adamstown"
-    },
-    {
-        "country": "Poland",
-        "city": "Warszawa"
-    },
-    {
-        "country": "Portugal",
-        "city": "Lisboa"
-    },
-    {
-        "country": "Puerto Rico",
-        "city": "San Juan"
-    },
-    {
-        "country": "Qatar",
-        "city": "Doha"
-    },
-    {
-        "country": "Reunion",
-        "city": "Saint-Denis"
-    },
-    {
-        "country": "Romania",
-        "city": "Bucuresti"
-    },
-    {
-        "country": "Russian Federation",
-        "city": "Moscow"
-    },
-    {
-        "country": "Rwanda",
-        "city": "Kigali"
-    },
-    {
-        "country": "Saint Helena",
-        "city": "Jamestown"
-    },
-    {
-        "country": "Saint Kitts and Nevis",
-        "city": "Basseterre"
-    },
-    {
-        "country": "Saint Lucia",
-        "city": "Castries"
-    },
-    {
-        "country": "Saint Pierre and Miquelon",
-        "city": "Saint-Pierre"
-    },
-    {
-        "country": "Saint Vincent and the Grenadines",
-        "city": "Kingstown"
-    },
-    {
-        "country": "Samoa",
-        "city": "Apia"
-    },
-    {
-        "country": "San Marino",
-        "city": "San Marino"
-    },
-    {
-        "country": "Sao Tome and Principe",
-        "city": "São Tomé"
-    },
-    {
-        "country": "Saudi Arabia",
-        "city": "Riyadh"
-    },
-    {
-        "country": "Scotland",
-        "city": "Edinburgh"
-    },
-    {
-        "country": "Senegal",
-        "city": "Dakar"
-    },
-    {
-        "country": "Serbia",
-        "city": "Belgrade"
-    },
-    {
-        "country": "Seychelles",
-        "city": "Victoria"
-    },
-    {
-        "country": "Sierra Leone",
-        "city": "Freetown"
-    },
-    {
-        "country": "Singapore",
-        "city": "Singapore"
-    },
-    {
-        "country": "Slovakia",
-        "city": "Bratislava"
-    },
-    {
-        "country": "Slovenia",
-        "city": "Ljubljana"
-    },
-    {
-        "country": "Solomon Islands",
-        "city": "Honiara"
-    },
-    {
-        "country": "Somalia",
-        "city": "Mogadishu"
-    },
-    {
-        "country": "South Africa",
-        "city": "Pretoria"
-    },
-    {
-        "country": "South Georgia and the South Sandwich Islands",
-        "city": null
-    },
-    {
-        "country": "South Korea",
-        "city": "Seoul"
-    },
-    {
-        "country": "South Sudan",
-        "city": "Juba"
-    },
-    {
-        "country": "Spain",
-        "city": "Madrid"
-    },
-    {
-        "country": "Sri Lanka",
-        "city": "Colombo, Sri Jayawardenepura Kotte"
-    },
-    {
-        "country": "Sudan",
-        "city": "Khartum"
-    },
-    {
-        "country": "Suriname",
-        "city": "Paramaribo"
-    },
-    {
-        "country": "Svalbard and Jan Mayen",
-        "city": "Longyearbyen"
-    },
-    {
-        "country": "Swaziland",
-        "city": "Mbabane"
-    },
-    {
-        "country": "Sweden",
-        "city": "Stockholm"
-    },
-    {
-        "country": "Switzerland",
-        "city": "Bern"
-    },
-    {
-        "country": "Syria",
-        "city": "Damascus"
-    },
-    {
-        "country": "Tajikistan",
-        "city": "Dushanbe"
-    },
-    {
-        "country": "Tanzania",
-        "city": "Dodoma"
-    },
-    {
-        "country": "Thailand",
-        "city": "Bangkok"
-    },
-    {
-        "country": "The Democratic Republic of Congo",
-        "city": "Kinshasa"
-    },
-    {
-        "country": "Togo",
-        "city": "Lomé"
-    },
-    {
-        "country": "Tokelau",
-        "city": "Fakaofo"
-    },
-    {
-        "country": "Tonga",
-        "city": "Nuku'alofa"
-    },
-    {
-        "country": "Trinidad and Tobago",
-        "city": "Port-of-Spain"
-    },
-    {
-        "country": "Tunisia",
-        "city": "Tunis"
-    },
-    {
-        "country": "Turkey",
-        "city": "Ankara"
-    },
-    {
-        "country": "Turkmenistan",
-        "city": "Ashgabat"
-    },
-    {
-        "country": "Turks and Caicos Islands",
-        "city": "Cockburn Town"
-    },
-    {
-        "country": "Tuvalu",
-        "city": "Funafuti"
-    },
-    {
-        "country": "Uganda",
-        "city": "Kampala"
-    },
-    {
-        "country": "Ukraine",
-        "city": "Kyiv"
-    },
-    {
-        "country": "United Arab Emirates",
-        "city": "Abu Dhabi"
-    },
-    {
-        "country": "United Kingdom",
-        "city": "London"
-    },
-    {
-        "country": "United States",
-        "city": "Washington"
-    },
-    {
-        "country": "United States Minor Outlying Islands",
-        "city": null
-    },
-    {
-        "country": "Uruguay",
-        "city": "Montevideo"
-    },
-    {
-        "country": "Uzbekistan",
-        "city": "Toskent"
-    },
-    {
-        "country": "Vanuatu",
-        "city": "Port-Vila"
-    },
-    {
-        "country": "Venezuela",
-        "city": "Caracas"
-    },
-       {
-        "country": "Vetican City",
-        "city": "Vetican City"
-    },
-    {
-        "country": "Vietnam",
-        "city": "Hanoi"
-    },
-    {
-        "country": "Virgin Islands, British",
-        "city": "Road Town"
-    },
-    {
-        "country": "Virgin Islands, U.S.",
-        "city": "Charlotte Amalie"
-    },
-    {
-        "country": "Wales",
-        "city": "Cardiff"
-    },
-    {
-        "country": "Wallis and Futuna",
-        "city": "Mata-Utu"
-    },
-    {
-        "country": "Western Sahara",
-        "city": "El-Aai"
-    },
-    {
-        "country": "Yemen",
-        "city": "Sanaa"
-    },
-    {
-        "country": "Zambia",
-        "city": "Lusaka"
-    },
-    {
-        "country": "Zimbabwe",
-        "city": "Harare"
+  "General_Knowledge": [
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+      "correct_answer": "Key",
+      "incorrect_answers": ["Sword", "Pen", "Cellphone"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How would one say goodbye in Spanish?",
+      "correct_answer": "Adi&oacute;s",
+      "incorrect_answers": [" Hola", "Au Revoir", "Salir"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+      "correct_answer": "Spruce Goose",
+      "incorrect_answers": ["Noah&#039;s Ark", "Fat Man", "Trojan Horse"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of these is not a typical European sword design?",
+      "correct_answer": "Scimitar",
+      "incorrect_answers": ["Falchion", "Ulfberht", "Flamberge"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following card games revolves around numbers and basic math?",
+      "correct_answer": "Uno",
+      "incorrect_answers": ["Go Fish", "Twister", "Munchkin"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country, not including Japan, has the most people of japanese decent?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": ["China", "South Korea", "United States of America"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Flag of the European Union has how many stars on it?",
+      "correct_answer": "12",
+      "incorrect_answers": ["10", "14", "16"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When someone is cowardly, they are said to have what color belly?",
+      "correct_answer": "Yellow",
+      "incorrect_answers": ["Green", "Red", "Blue"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Ping-Pong originated in England",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these Marvel games was released on the Playstation 2?",
+      "correct_answer": "Spider-Man 2",
+      "incorrect_answers": [
+        "Silver Surfer",
+        "Howard the Duck",
+        "Wolverine: Adamantium Rage"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The US emergency hotline is 911 because of the September 11th terrorist attacks.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a &quot;dakimakura&quot;?",
+      "correct_answer": "A body pillow",
+      "incorrect_answers": [
+        "A Chinese meal, essentially composed of fish",
+        "A yoga posture",
+        "A word used to describe two people who truly love each other"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the unit of currency in Laos?",
+      "correct_answer": "Kip",
+      "incorrect_answers": ["Ruble", "Konra", "Dollar"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the romanized Russian word for &quot;winter&quot;?",
+      "correct_answer": "Zima",
+      "incorrect_answers": ["Leto", "Vesna", "Osen&#039;"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "United States of America",
+        "Soviet Union",
+        "Poland"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year was McDonald&#039;s founded?",
+      "correct_answer": "1955",
+      "incorrect_answers": ["1964", "1951", "1947"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+      "correct_answer": "Hewlett-Packard",
+      "incorrect_answers": ["Toshiba", "Asus", "Dell"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the original name of the search engine &quot;Google&quot;?",
+      "correct_answer": "BackRub",
+      "incorrect_answers": ["CatMassage", "SearchPro", "Netscape Navigator"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Whose greyscale face is on the kappa emoticon on Twitch?",
+      "correct_answer": "Josh DeSeno",
+      "incorrect_answers": ["Justin DeSeno", "John DeSeno", "Jimmy DeSeno"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The British organisation CAMRA stands for The Campaign for Real Ale.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+      "correct_answer": "Ed Sheeran - I See Fire",
+      "incorrect_answers": [
+        "Marvin Gaye - Sexual Healing",
+        "Coldplay - Midnight",
+        "a-ha - Take On Me"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+      "correct_answer": "Bulldog",
+      "incorrect_answers": ["Yorkshire Terrier", "Boxer", "Pug"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was Queen Elizabeth II born?",
+      "correct_answer": "1926",
+      "incorrect_answers": ["1923", "1929", "1930"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+      "correct_answer": "Madeon",
+      "incorrect_answers": ["Mat Zo", "deadmau5", "Zedd"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "hard",
+      "question": "In Scandinavian languages, the letter &Aring; means river.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+      "correct_answer": "150",
+      "incorrect_answers": ["200", "100", "155"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+      "correct_answer": "7 years",
+      "incorrect_answers": ["2 years", "8 years", "6 months"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+      "correct_answer": "The Shatter&#039;s",
+      "incorrect_answers": [
+        "Snake Pit",
+        "The Tomb of the Acient&#039;s",
+        "The Puppet Master&#039;s Theater"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The word &quot;abulia&quot; means which of the following?",
+      "correct_answer": "The inability to make decisions",
+      "incorrect_answers": [
+        "The inability to stand up",
+        "The inability to concentrate on anything",
+        "A feverish desire to rip one&#039;s clothes off"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+      "correct_answer": "10",
+      "incorrect_answers": ["6", "8", "12"]
     }
-]
+  ],
+  "Sports": [
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many soccer players should be on the field at the same time?",
+      "correct_answer": "22",
+      "incorrect_answers": ["20", "24", "26"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which team won the 2015-16 English Premier League?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": ["Liverpool", "Cheslea", "Manchester United"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+      "correct_answer": "4",
+      "incorrect_answers": ["1", "2", "3"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+      "correct_answer": "Don Cherry",
+      "incorrect_answers": ["Don McKellar", "Don Taylor ", "Donald Sutherland"]
+    },
+    {
+      "category": "Sports",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Rugby League, performing a &quot;40-20&quot; is punished by a free kick for the opposing team.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In bowling, what is the term used for getting three consecutive strikes?",
+      "correct_answer": "Turkey",
+      "incorrect_answers": ["Flamingo", "Birdie", "Eagle"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": ["Tottenham Hotspur", "Watford", "Stoke City"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+      "correct_answer": "Sunderland FC",
+      "incorrect_answers": [
+        "Barcelona FC",
+        "Paris Saints-Germain",
+        "Manchester United"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": [
+        "Sebastian Vettel",
+        "Nico Rosberg",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which two teams played in Super Bowl XLII?",
+      "correct_answer": "The New York Giants &amp; The New England Patriots",
+      "incorrect_answers": [
+        "The Green Bay Packers &amp; The Pittsburgh Steelers",
+        "The Philadelphia Eagles &amp; The New England Patriots",
+        "The Seattle Seahawks &amp; The Denver Broncos"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+      "correct_answer": "Duck",
+      "incorrect_answers": ["Bye", "Beamer", "Carry"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which team was the 2015-2016 NBA Champions?",
+      "correct_answer": "Cleveland Cavaliers",
+      "incorrect_answers": [
+        "Golden State Warriors",
+        "Toronto Raptors",
+        "Oklahoma City Thunders"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+      "correct_answer": "Mercedes-AMG Petronas",
+      "incorrect_answers": [
+        "Scuderia Ferrari",
+        "McLaren Honda",
+        "Red Bull Racing Renault"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+      "correct_answer": "Jules Bianchi",
+      "incorrect_answers": [
+        "Ayrton Senna",
+        "Ronald Ratzenberger",
+        "Gilles Villeneuve"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+      "correct_answer": "US Open",
+      "incorrect_answers": ["French Open", "Wimbledon", "Australian Open"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+      "correct_answer": "Ohio State Buckeyes",
+      "incorrect_answers": [
+        "Alabama Crimson Tide",
+        "Clemson Tigers",
+        "Wisconsin Badgers"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+      "correct_answer": "Jose Fernandez",
+      "incorrect_answers": ["Jacob deGrom", "Shelby Miller", "Matt Harvey"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+      "correct_answer": "Toronto Marlies",
+      "incorrect_answers": [
+        "Toronto Rock",
+        "Toronto Argonauts",
+        "Toronto Wolfpack"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+      "correct_answer": "James Rodr&iacute;guez",
+      "incorrect_answers": ["Thomas M&uuml;ller", "Lionel Messi", "Neymar"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+      "correct_answer": "Nine",
+      "incorrect_answers": ["Ten", "Seven", "Eight"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Where was the Games of the XXII Olympiad held?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": ["Barcelona", "Tokyo", "Los Angeles"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+      "correct_answer": "Mazda",
+      "incorrect_answers": ["Toyota", "Subaru", "Nissan"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "correct_answer": "Ma Long (China)",
+      "incorrect_answers": [
+        "Zhang Jike (China)",
+        "Jun Mizutani (Japan)",
+        "Vladimir Samsonov (Belarus)"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "correct_answer": "DING Ning (China)",
+      "incorrect_answers": [
+        "LI Xiaoxia (China)",
+        "Ai FUKUHARA (Japan)",
+        "Song KIM (North Korea)"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+      "correct_answer": "Eric Cantona",
+      "incorrect_answers": ["David Seamen", "Ashley Cole", "Mark Hughes"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+      "correct_answer": "1991",
+      "incorrect_answers": ["1990", "2000", "1987"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+      "correct_answer": "Vladivostok",
+      "incorrect_answers": ["Rostov-on-Don", "Yekaterinburg", "Kaliningrad"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The AHL affiliate team of the Boston Bruins is named what?",
+      "correct_answer": "Providence Bruins",
+      "incorrect_answers": [
+        "New Haven Bruins",
+        "Cambridge Bruins",
+        "Hartford Bruins"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+      "correct_answer": "Hull City",
+      "incorrect_answers": ["Cardiff City", "Bristol City", "Manchester City"]
+    }
+  ],
+  "Geography": [
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What state is the largest state of the United States of America?",
+      "correct_answer": "Alaska",
+      "incorrect_answers": ["California", "Texas", "Washington"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the only state in the United States that does not have a flag in a shape with 4 edges?",
+      "correct_answer": "Ohio",
+      "incorrect_answers": ["Florida", "Idaho", "New Mexico"]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Alaska is the largest state in the United States.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following languages does NOT use the Latin alphabet?",
+      "correct_answer": "Georgian",
+      "incorrect_answers": ["Turkish", "Swahili", "Vietnamese"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which US state has the highest population?",
+      "correct_answer": "California",
+      "incorrect_answers": ["New York", "Texas", "Florida"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Harvard University is located in which city?",
+      "correct_answer": "Cambridge",
+      "incorrect_answers": ["Providence", "New York", "Washington D.C."]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of New Zealand&#039;s indigenous people?",
+      "correct_answer": "Maori",
+      "incorrect_answers": ["Vikings", "Polynesians", "Samoans"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the smallest country in the world?",
+      "correct_answer": "Vatican City",
+      "incorrect_answers": ["Maldives", "Monaco", "Malta"]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Nova Scotia is on the east coast of Canada.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Alps are a mountain range on which continent?",
+      "correct_answer": "Europe",
+      "incorrect_answers": ["North America", "Asia", "Africa"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these countries is &quot;doubly landlocked&quot; (surrounded entirely by one or more landlocked countries)?",
+      "correct_answer": "Uzbekistan",
+      "incorrect_answers": ["Switzerland", "Bolivia", "Ethiopia"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where is the area commonly known as the Bermuda Triangle?",
+      "correct_answer": "North Atlantic Ocean, between Florida and Puerto Rico",
+      "incorrect_answers": [
+        "North Pacific Ocean, between Japan and the USA",
+        "In the Caribbean Sea",
+        "South Pacific Ocean, far off Chile"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+      "correct_answer": "United Kingdom",
+      "incorrect_answers": ["Spain", "Portugal", "France"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What event led to Liechenstein adding a crown to its flag?",
+      "correct_answer": "The 1936 Olympics",
+      "incorrect_answers": [
+        "Coronation of Prince Johann I Joseph in 1805",
+        "Charles VI&#039;s decree in 1719",
+        "Signing of the 1862 Constitution of Liechtenstein"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Japan has left-hand side traffic.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many timezones does Russia have?",
+      "correct_answer": "11",
+      "incorrect_answers": ["6", "24", "16"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the region conjoining Pakistan, India, and China with unknown leadership called?",
+      "correct_answer": "Kashmir",
+      "incorrect_answers": ["Andorra", "Gibraltar", "Quin"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital city of Slovenia?",
+      "correct_answer": "Ljubljana",
+      "incorrect_answers": ["Maribor", "Velenje", "Trbovlje"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which English county is the city of Portsmouth?",
+      "correct_answer": "Hampshire",
+      "incorrect_answers": ["Oxfordshire", "Buckinghamshire", "Surrey"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where is Hadrian&#039;s Wall located?",
+      "correct_answer": "Carlisle, England",
+      "incorrect_answers": [
+        "Rome, Italy",
+        "Alexandria, Egypt",
+        "Dublin, Ireland"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the largest city and commercial capital of Sri Lanka?",
+      "correct_answer": "Colombo",
+      "incorrect_answers": ["Moratuwa", "Negombo", "Kandy"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these island countries is located in the Caribbean?",
+      "correct_answer": "Barbados",
+      "incorrect_answers": ["Fiji", "Maldives", "Seychelles"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many countries border Kyrgyzstan?",
+      "correct_answer": "4",
+      "incorrect_answers": ["3", "1", "6"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What city is known as the Rose Capital of the World?",
+      "correct_answer": "Tyler, Texas",
+      "incorrect_answers": [
+        "San Diego, California",
+        "Miami, Florida",
+        "Anaheim, California"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the Canadian national anthem?",
+      "correct_answer": "O Canada",
+      "incorrect_answers": [
+        "O Red Maple",
+        "Leaf-Spangled Banner",
+        "March of the Puck Drop"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When does Finland celebrate their independence day?",
+      "correct_answer": "December 6th",
+      "incorrect_answers": ["January 2nd", "November 12th", "February 8th"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the land connecting North America and South America?",
+      "correct_answer": "Isthmus of Panama",
+      "incorrect_answers": ["Isthmus of Suez", "Urals", "Australasia"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Andaman and Nicobar Islands in South East Asia are controlled by which country?",
+      "correct_answer": "India",
+      "incorrect_answers": ["Vietnam", "Thailand", "Indonesia"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many stations does the Central Line have on the London Underground?",
+      "correct_answer": "49",
+      "incorrect_answers": ["51", "43", "47"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In which country is Tallinn located?",
+      "correct_answer": "Estonia",
+      "incorrect_answers": ["Finland", "Sweden", "Poland"]
+    }
+  ]
 }
